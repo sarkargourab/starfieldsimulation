@@ -11,4 +11,3 @@ public class Main {
         frame.setVisible(true);
     }
 }
-// What is the output?
